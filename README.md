@@ -30,7 +30,10 @@ WebSocket ++是仅标头的C ++库，实现RFC6455 WebSocket协议。它允许�
 7. [MPMCQueue](https://github.com/rigtorp/MPMCQueue)
 用C ++ 11编写的有界多生产者多消费者无锁队列。
 8. [evpp](https://github.com/Qihoo360/evpp)
+其网络编程部分是基于libevent
 evpp是一个现代C ++网络库，用于使用TCP / UDP / HTTP协议开发高性能的网络服务。 evpp提供了一个TCP服务器来支持多线程非阻塞事件驱动服务器，还提供了一个HTTP，UDP服务器来支持HTTP和UDP协议。
 9. [handy](https://github.com/yedf/handy)
 简洁易用的C++11网络库
+10. [memcached](https://github.com/memcached/memcached)
+memcached是一套分布式的高速缓存系统。其网络部分也是基于libevent来实现
 
