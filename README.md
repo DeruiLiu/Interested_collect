@@ -25,7 +25,9 @@ Netdata是针对系统和应用程序的分布式，实时性能和运行状况�
 2. [libhv](https://github.com/ithewei/libhv)
 像一样libevent, libev, and libuv， libhv提供具有非阻塞IO和计时器的事件循环，但具有更简单的API和更丰富的协议。
 3. [redis](https://github.com/redis/redis)
-https://github.com/redis/redis
+redis
+4. [redis注释](https://github.com/huangz1990/redis-3.0-annotated)
+redis设计与实现
 10. [memcached](https://github.com/memcached/memcached)
 memcached是一套分布式的高速缓存系统。其网络部分也是基于libevent来实现
 
