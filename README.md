@@ -11,6 +11,8 @@ C++设计模式实现
  C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
 4. [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
 C++那些事
+5. [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
+很多人表示学完C++不知道用来干什么，我觉得学完C++的第一个练手的好机会那就是自己试着实现一个小型的STL库。MyTinySTL的作者它就用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，非常适合新手学习与参考！
 
 
 # C++ 网络编程项目
@@ -36,4 +38,12 @@ evpp是一个现代C ++网络库，用于使用TCP / UDP / HTTP协议开发高�
 简洁易用的C++11网络库
 10. [memcached](https://github.com/memcached/memcached)
 memcached是一套分布式的高速缓存系统。其网络部分也是基于libevent来实现
+11. [CppNet](https://github.com/caozhiyi/CppNet)
+CppNet一个封装在 TCP 协议上的 Proactor 模式 multi-thread 网络库。包含 OS 接口调用、回调处理、定时器、缓存管理等，这里有从操作系统到应用层的所有网络细节，便于初学者学习和实践。
+简单：只导出了最少量的接口，其声明都类似系统 socket API。对客户端而言，只新增了一个 buffer 类型
+快速：采用性能最优的 epoll 和 IOCP 做事件驱动。每个连接都独享一个内存池，从内存池中申请的内存都由智能指针管理
+清晰：结构上分为事件驱动，会话管理，接口三层，通过回调向上通知。模块之间职责分工明确，最大的类不超过 500 行代码
+12. [oatpp](https://github.com/oatpp/oatpp)
+我们知道Java领域的Web框架非常繁荣，最知名的当属Spring全家桶，而C语言和C++阵营则几乎没有。那oatpp则是一个轻量、跨平台、高性能、完全零依赖，用纯 C++ 实现的 Web 框架，实在是难得，小伙伴们可以学习学习
+
 
