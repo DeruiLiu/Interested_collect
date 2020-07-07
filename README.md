@@ -9,7 +9,7 @@
 C++设计模式实现
 3. [interview](https://github.com/huihut/interview)
  C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-<B> 4. [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+4. <B>[CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
 C++那些事</B>
 
 5. [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
@@ -19,7 +19,7 @@ Netdata是针对系统和应用程序的分布式，实时性能和运行状况�
 
 # C 网络编程项目
 
-<B> 1. <font color = red >[Libevent](https://github.com/libevent/libevent)
+1. <B>[Libevent](https://github.com/libevent/libevent)
  不需要多说什么</B>
  
 2. [libhv](https://github.com/ithewei/libhv)
