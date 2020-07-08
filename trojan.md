@@ -24,8 +24,10 @@
 重启VPS以后SELinux即为关闭状态。
 
 ## 2、安装基础依赖环境
+```
 yum -y install wget    ##ContOS Yum 安装 wget
 apt-get install wget   ##Debian Ubuntu 安装 wget
+```
 
 ## 3、开始运行Trojan安装代码
 代码很简单，三行代码，大家一行一行的复制进去运行，任何问题均有相关提示!
