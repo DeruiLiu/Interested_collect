@@ -9,8 +9,11 @@
 C++设计模式实现
 3. [interview](https://github.com/huihut/interview)
  C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-4. <B>[CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-C++那些事</B>
+4. [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+```
+ - C++那些事
+```
+
 
 5. [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
 很多人表示学完C++不知道用来干什么，我觉得学完C++的第一个练手的好机会那就是自己试着实现一个小型的STL库。MyTinySTL的作者它就用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，非常适合新手学习与参考！
@@ -33,8 +36,10 @@ memcached是一套分布式的高速缓存系统。其网络部分也是基于li
 
 # C++ 网络编程项目
 
-1. <B> [WebServer](https://github.com/linyacool/WebServer)</B> <font color = red>学习中</font>
- 本项目为C++11编写的Web服务器，解析了get、head请求，可处理静态资源，支持HTTP长连接，支持管线化请求，并实现了异步日志，记录服务器运行状态。
+1. <B> [WebServer](https://github.com/linyacool/WebServer)</B> 
+```
+ - 本项目为C++11编写的Web服务器，解析了get、head请求，可处理静态资源，支持HTTP长连接，支持管线化请求，并实现了异步日志，记录服务器运行状态。
+ ```
 
 1. [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)
 Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质
