@@ -39,5 +39,5 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Troja
 ```
 
 ## 4、安装BBRPLUS加速
-wget -N --no-check-certificate "https://github.com/ylx2016/Linux-NetSpeed/releases/download/sh/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
-后记
+```wget -N --no-check-certificate "https://github.com/ylx2016/Linux-NetSpeed/releases/download/sh/tcp.sh" && chmod +x tcp.sh && ./tcp.sh```
+
