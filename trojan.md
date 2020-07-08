@@ -28,10 +28,15 @@ apt-get install wget   ##Debian Ubuntu 安装 wget
 ## 3、开始运行Trojan安装代码
 代码很简单，三行代码，大家一行一行的复制进去运行，任何问题均有相关提示!
 
+```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Trojansh/master/trojan1.sh" && chmod +x trojan1.sh && ./trojan1.sh
+```
+```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Trojansh/master/trojan2.sh" && chmod +x trojan2.sh && ./trojan2.sh
+```
+```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Trojansh/master/trojan3.sh" && chmod +x trojan3.sh && ./trojan3.sh
-
+```
 
 ## 4、安装BBRPLUS加速
 wget -N --no-check-certificate "https://github.com/ylx2016/Linux-NetSpeed/releases/download/sh/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
