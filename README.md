@@ -33,7 +33,7 @@ memcached是一套分布式的高速缓存系统。其网络部分也是基于li
 
 # C++ 网络编程项目
 
-1. <B> [WebServer](https://github.com/linyacool/WebServer)<B> <font color = red>学习中</font>
+1. <B> [WebServer](https://github.com/linyacool/WebServer)</B> <font color = red>学习中</font>
  本项目为C++11编写的Web服务器，解析了get、head请求，可处理静态资源，支持HTTP长连接，支持管线化请求，并实现了异步日志，记录服务器运行状态。
 
 1. [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)
