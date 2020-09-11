@@ -1,6 +1,8 @@
 # Interested_collect
 收集一些感兴趣的项目信息，方便自己查找和学习
-
+# 博客类项目
+1.[优秀的计算机编程类博客和文章](https://github.com/edagarli/tuiblogs) 
+优秀的计算机编程类博客和文章 share excellent blogs and sites
 
 # C++资源收集项目
 1. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
