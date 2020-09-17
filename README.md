@@ -3,6 +3,8 @@
 # 博客类项目
 1.[优秀的计算机编程类博客和文章](https://github.com/edagarli/tuiblogs) 
 优秀的计算机编程类博客和文章 share excellent blogs and sites
+2.[计算机科学自学](https://github.com/ossu/computer-science)
+一个计算机自学的开源项目
 
 # C++资源收集项目
 1. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
