@@ -24,6 +24,7 @@ C++设计模式实现
 6. [netdata](https://github.com/netdata/netdata)
 Netdata是针对系统和应用程序的分布式，实时性能和运行状况监视。它是您在所有系统和容器上安装的高度优化的监视代理。
 7. <B> [C++后端开发](https://github.com/balloonwj/CppGuide)</B>
+相关资料
 
 # C 网络编程项目
 
