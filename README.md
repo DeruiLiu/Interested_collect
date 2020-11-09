@@ -7,6 +7,9 @@
 2.[计算机科学自学](https://github.com/ossu/computer-science)
 一个计算机自学的开源项目
 
+3.[高频面试题](https://github.com/resumejob/interview-questions)
+根据国内外论坛收集超过 1700 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴等公司的真实高频面试题
+
 # C++资源收集项目
 1. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 精选的关于C++的一系列资源
