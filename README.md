@@ -14,6 +14,7 @@
 1. <B>[c++线程池实现  C++11](https://github.com/mtrebi/thread-pool)</B>
 2. [内存池实现1](https://github.com/cacay/MemoryPool)
 3. [内存池实现2](https://github.com/DGuco/shmqueue)
+4. [stl源码剖析3.3](https://github.com/steveLauwh/SGI-STL)
 
 1. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 精选的关于C++的一系列资源
