@@ -91,4 +91,5 @@ CppNet一个封装在 TCP 协议上的 Proactor 模式 multi-thread 网络库。
 LevelDB是Google编写的快速键值存储库，提供了从字符串键到字符串值的有序映射。 基于C++
 11. [TeamTalk](https://github.com/meili/TeamTalk)
 一个简单的整体实战的开源项目
+12. [关于用C ++ 11编写的有界单生产者单消费者无等待和无锁队列](https://github.com/rigtorp/SPSCQueue)
 
