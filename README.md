@@ -70,6 +70,7 @@ Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量
 一个简单的C ++ 11线程池实现。
 3. [Muduo](https://github.com/chenshuo/muduo)
 Muduo是一个基于以下内容的多线程C ++网络库：基于libevent实现
+[Muduo注释版](https://github.com/zycly/LinuxStudy.git)
 4. [Websocket](https://github.com/zaphoyd/websocketpp)
 WebSocket ++是仅标头的C ++库，实现RFC6455 WebSocket协议。它允许将WebSocket客户端和服务器功能集成到C ++程序中。它使用可互换的网络传输模块，包括一个基于原始字符缓冲区的模块，一个基于C ++ iostream的模块和一个基于Asio的模块（通过Boost或独立）。最终用户可以根据需要编写其他传输策略以支持其他网络或事件库。
 5. [MPMCQueue](https://github.com/rigtorp/MPMCQueue)
