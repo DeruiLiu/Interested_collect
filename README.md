@@ -10,6 +10,8 @@
 3.[高频面试题](https://github.com/resumejob/interview-questions)
 根据国内外论坛收集超过 1700 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴等公司的真实高频面试题
 
+4.[超过1000本的计算机经典书籍分享](https://github.com/forthespada/CS-Books)
+
 # C++资源收集项目
 1. <B>[c++线程池实现  C++11](https://github.com/mtrebi/thread-pool)</B>
 2. [内存池实现1](https://github.com/cacay/MemoryPool)
