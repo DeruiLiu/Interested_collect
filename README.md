@@ -12,6 +12,9 @@
 
 4.[超过1000本的计算机经典书籍分享](https://github.com/forthespada/CS-Books)
 
+5.[GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+
+6.[C++ client for making HTTP/REST requests](https://github.com/mrtazz/restclient-cpp)
 # C++资源收集项目
 1. <B>[c++线程池实现  C++11](https://github.com/mtrebi/thread-pool)</B>
 2. [内存池实现1](https://github.com/cacay/MemoryPool)
