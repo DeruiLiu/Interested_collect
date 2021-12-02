@@ -1,6 +1,11 @@
 # Interested_collect
 收集一些感兴趣的项目信息，方便自己查找和学习
 # 博客类项目
+
+[2021年最新总结，值得推荐的c/c++开源框架与库。持续更新中](https://github.com/0voice/developkit_set)
+
+[C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
+
 1.[优秀的计算机编程类博客和文章](https://github.com/edagarli/tuiblogs) 
 优秀的计算机编程类博客和文章 share excellent blogs and sites
 
