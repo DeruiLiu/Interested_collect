@@ -44,7 +44,9 @@ Netdata是针对系统和应用程序的分布式，实时性能和运行状况�
 7. <B> [C++后端开发](https://github.com/balloonwj/CppGuide)</B>
 相关资料
 
-# C 网络编程项目
+# C 编程项目
+
+[基于C的线程池实现](https://github.com/Pithikos/C-Thread-Pool)
 
 1. <B>[Libevent](https://github.com/libevent/libevent)
  不需要多说什么</B>
