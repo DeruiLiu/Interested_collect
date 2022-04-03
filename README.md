@@ -1,5 +1,10 @@
 # Interested_collect
 收集一些感兴趣的项目信息，方便自己查找和学习
+
+# 成长类项目
+1. [如何设计一个很好的系统，学习设计系统](https://github.com/donnemartin/system-design-primer)
+
+
 # 博客类项目
 
 [2021年最新总结，值得推荐的c/c++开源框架与库。持续更新中](https://github.com/0voice/developkit_set)
